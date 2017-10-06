@@ -40,6 +40,8 @@ gem 'jquery-rails'
 gem 'bootstrap', '~> 4.0.0.beta'
 # Use DEVISE
 gem 'devise'
+# Use Annotate
+gem 'annotate'
 
 group :development, :test do
   # Use RSPEC
